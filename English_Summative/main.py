@@ -7,7 +7,7 @@ from kivy.uix.button import Button
 from kivy.uix.image import Image
 from kivy.clock import Clock
 from kivy.core.window import Window
-
+print("hello")
 # Set the window size
 Window.size = (1152, 648)
 
